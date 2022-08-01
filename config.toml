@@ -1,8 +1,0 @@
-title = "hugo-geekdoc Documentation"
-
-theme = "hugo-book"
-
-baseURL = "https://wbbetty.github.io/document/"
-
-languageCode = "zh-cn"
-DefaultContentLanguage = "cn"
