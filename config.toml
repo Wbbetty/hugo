@@ -1,0 +1,8 @@
+title = "hugo-geekdoc Documentation"
+
+theme = "hugo-book"
+
+baseURL = "https://example.com"
+
+languageCode = "zh-cn"
+DefaultContentLanguage = "cn"
