@@ -1,5 +1,5 @@
 ---
-baseURL: "https://wbbetty.github.io/document/"
+baseURL: "https://wbbetty.github.io/hugo/"
 languageCode: "zh-cn"
 title: "Geekdocs"
 theme: "hugo-geekdoc"
