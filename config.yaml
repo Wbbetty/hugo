@@ -8,7 +8,7 @@ theme: "hugo-geekdoc"
 pygmentsUseClasses: true
 pygmentsCodeFences: true
 disablePathToLower: true
-enableGitInfo: true
+enableGitInfo: false
 
 hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
 
