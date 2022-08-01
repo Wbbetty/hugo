@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://wbbetty.github.io/document/sitemap.xml
+Sitemap: https://wbbetty.github.io/hugo/sitemap.xml
